@@ -1,0 +1,48 @@
+# frontend<!DOCTYPE html>
+<html lang="eng"></html>
+<head>
+<meta charset="UTF-8">
+<link rel="stylesheet" href="calc.css">
+<title> Calculator using the JS</title>
+</head>
+
+<body>
+    <div class="card">
+    <h1 style="text-allign: center;" "font-size: 15px;" "font-color: white;"" "font-family:sans-serif;"> Calculator</h1><br>
+    <img src="pngtree-rose-chalk-and-gold-brush-texture-decorative-elements-png-image_354691">
+    <input type="text" name="screen" id="screen"><br>
+       
+    <button>1</button>
+    <button>2</button>
+    <button>3</button>
+    <button>+</button><br>
+
+    <button>4</button>
+    <button>5</button>
+    <button>6</button>
+    <button>-</button><br>
+
+    <button>7</button>
+    <button>8</button>
+    <button>9</button>
+    <button>X</button><br>
+
+    <button>0</button>
+    <button>/</button>
+    <button>%</button>
+    <button>.</button><br>
+
+    <button>)</button>
+    <button>(</button>
+    <button>=</button>
+    <button>C</button>
+
+  </div>
+    
+     </body>
+     <script src="function.js"></script>
+     </html>
+    
+    
+
+    
