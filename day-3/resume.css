@@ -1,0 +1,36 @@
+.resume{
+
+	text-align: center;
+	text-decoration: underline;
+	 background-color: powderblue;
+     color: white;
+     border: 2px solid black;
+    color:black;
+     margin: 5px;
+     border-radius: 4px;
+     
+  
+ 
+
+}
+h2{
+	text-decoration: underline;
+}
+p1{
+    font-size: 20px;
+    font-family: times new roman;
+
+}
+table,th,td {
+	width: 40%;
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+th{
+	
+	height: 55px;
+}
+td{
+	height: 20px;
+	text-align: center;
+}
