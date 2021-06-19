@@ -19,10 +19,10 @@ Syntax highlighted code block
 ``` -->
 
 ### [Day1](https://akshita270.github.io/frontend/day%201/letter.html)
-### [Day2](https://03pawan.github.io/Web_dev_Devsnest/Frontend%20THA/DAY2/letter1.html)
-### [Day3](https://03pawan.github.io/Web_dev_Devsnest/Frontend%20THA/DAY3/portfolio.html)
-### [Day4](https://03pawan.github.io/Web_dev_Devsnest/Frontend%20THA/DAY4/clock.html)
-### [Day5](https://03pawan.github.io/Web_dev_Devsnest/Frontend%20THA/DAY5/calculator.html)
+### [Day2]((https://akshita270.github.io/frontend/day%202/letter.html)
+### [Day3](https://akshita270.github.io/frontend/day-3/resume.html)
+### [Day5](https://akshita270.github.io/frontend/day%205/calculator.html)
+### [Day6](https://github.com/akshita270/frontend/blob/main/day%206/drive.js)
 
 <!-- ### Jekyll Themes
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/03pawan/Web_dev_Devsnest/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
