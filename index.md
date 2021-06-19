@@ -19,7 +19,7 @@ Syntax highlighted code block
 ``` -->
 
 ### [Day1](https://akshita270.github.io/frontend/day%201/letter.html)
-### [Day2]((https://akshita270.github.io/frontend/day%202/letter.html)
+### [Day2](https://akshita270.github.io/frontend/day%202/letter.html)
 ### [Day3](https://akshita270.github.io/frontend/day-3/resume.html)
 ### [Day5](https://akshita270.github.io/frontend/day%205/calculator.html)
 ### [Day6](https://github.com/akshita270/frontend/blob/main/day%206/drive.js)
