@@ -24,7 +24,7 @@ Syntax highlighted code block
 ### [Day3](https://akshita270.github.io/frontend/day-3/resume.html)
 ### [Day5](https://akshita270.github.io/frontend/day%205/calculator.html)
 ### [Day6](https://github.com/akshita270/frontend/blob/main/day%206/drive.js)
-### [Day7](https://github.com/akshita270/frontend/blob/main/day%207)
+### [Day7](https://github.com/akshita270/frontend/blob/main/day%207.js)
 
 <!-- ### Jekyll Themes
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/03pawan/Web_dev_Devsnest/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
